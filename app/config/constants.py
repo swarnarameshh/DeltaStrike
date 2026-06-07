@@ -1,0 +1,26 @@
+NSE_INDICES = [
+    "NIFTY",
+    "BANKNIFTY",
+    "FINNIFTY",
+    "MIDCAP"
+]
+
+BSE_INDICES = [
+    "SENSEX",
+    "BANKEX"
+]
+
+STRIKE_DIFF = {
+    "NIFTY": 50,
+    "BANKNIFTY": 100,
+    "FINNIFTY": 50,
+    "MIDCAP": 25,
+    "SENSEX": 100,
+    "BANKEX": 100
+}
+
+NSE_RANGE = 5
+BSE_RANGE = 10
+
+MIN_DELTA = 0.50
+MAX_DELTA = 0.58
