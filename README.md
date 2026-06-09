@@ -1,4 +1,4 @@
-# DeltaStrike 🚀
+# DeltaStrike 
 
 AI-Powered Options Signal Generation Platform for NSE & BSE Indices
 
@@ -219,9 +219,6 @@ TELEGRAM_CHAT_ID=your_chat_id
 
 Swarna Ramesh
 
-MS Data Science – UT Austin
-
-Platform Engineering | Python | Data Engineering | AI
 
 ---
 
